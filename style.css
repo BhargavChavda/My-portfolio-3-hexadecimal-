@@ -1,0 +1,45 @@
+h1{
+    color:#2D4A63;
+    font-family:'Segoe UI';
+    font-weight: bold;
+    
+}
+
+.menu{
+    display: flex;
+    align-items: flex-end;
+    background-color:#335d2a;
+
+}
+
+h2,p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    background-color:#33ff00;
+}
+
+.header{
+    background-image: url(img.jpg);    
+    
+    display: flex;
+    justify-content: center;
+    background-color:#6a2299;
+}
+
+.games{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color:#ff0000;
+    background-color:#6a2299;
+}
+
+.sites{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color:#9a2299;
+
+}
